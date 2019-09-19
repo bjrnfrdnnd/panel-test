@@ -1,5 +1,12 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bjrnfrdnnd/panel-test.git/master?filepath=dnmr_abi.ipynb)
 
+
+## deploy on heroku button
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+(this uses `app.json`)
+
 ## Click the "launch binder app" badge above to launch the application. 
 Be patient as the server image is launched :)
 
