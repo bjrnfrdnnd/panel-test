@@ -1,0 +1,7 @@
+{
+  "name": "bjrnfdnnd's own version of panel test",
+  "description": "A panel test app",
+  "repository": "https://github.com/bjrnfrdnnd/panel-test",
+  "logo": "https://panel.pyviz.org/_static/logo_stacked.png",
+  "keywords": ["panel", " pyviz"]
+}
